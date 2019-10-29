@@ -1,0 +1,13 @@
+{
+  "extends": "./tsconfig.base",
+  "compilerOptions": {
+    // Do not emit comments to output.
+    "removeComments": true
+  },
+  // Files and directories to be excluded from compilation
+  "exclude": [
+    "node_modules",
+    "src/modules/database/migrations/**",
+    "**/*.spec.ts"
+  ]
+}
