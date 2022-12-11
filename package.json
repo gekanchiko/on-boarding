@@ -59,7 +59,7 @@
     "@selinarnd/node-utils": "^1.5.2",
     "class-transformer": "^0.2.3",
     "class-validator": "^0.10.2",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "newrelic": "^5.13.1",
     "pg": "^7.12.1",
     "prom-client": "^11.5.3",
